@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+.fa {
+    margin-right: 40px !important;
+}
+
+.radio-button {
+    padding-left: 24px !important;
+}
+
+.side-nav .divider {
+    margin: 0 !important;
+}
+
+
+.userView {
+    text-align: center;
+}
+
+.side-nav .userView .circle {
+    height: 120px !important;
+    width: 120px !important;
+}
+
+.about {
+    padding: 5% 2% 2% 11%;
+
+}
+
+.circle {
+    margin-left: 26% !important;
+}
+
+.links {
+}
+
+.outer-container {
+    margin-top: 4%;
+
+}
+
+.about-footer {
+    font-size: 10px;
+    padding: 8% 4% 2% 11%;
+
+}
+
+.container {
+    width: 49% !important;
+}
+
+.button-collapse {
+    float: left;
+    padding-top: 1%;
+}
+
+.material-icons {
+    font-size: 42px !important;
+}
+
+.logo-container {
+    padding-top: 4%;
+
+}
+
+.show_attendance {
+    margin-top: 8%;
+}
+
+.brand-logo {
+    padding-right: 6%;
+}
+
+.percentages {
+    /*display: inline-block;
+    padding-left: 31%;
+    padding-right: 31%; */
+    /*position: absolute;
+    max-width: 480px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3%;
+    margin-top: 13%;
+
+}
+
+.left-form {
+    padding-right: 10px;
+}
+
+.percentage {
+    padding-right: 16% !important;
+}
+
+
+.card-panel {
+    color: #fff;
+    background-color: #bf6921;
+	padding: 10% 30% !important;
+	text-align: center;
+    border: none;
+}
+
+.card-panel:hover, .card-panel:focus, .card-panel:active {
+    background-color: #7e5c2e;
+}
+
+
+.switch label input[type="checkbox"]:checked + .lever::after {
+    background-color: #f2f5ea !important;
+}
+
+.switch label input[type="checkbox"]:checked + .lever {
+    background-color: #e75a7c !important;
+}
+
+input[type="text"]:focus:not([readonly]) + label {
+    color: #e75a7c !important;
+}
+
+input[type="text"]:focus:not([readonly]) {
+    border-bottom: 1px solid #e75a7c !important;
+    box-shadow: 0 1px 0 0 #e75a7c !important;
+}
+
+.active-btn {
+    background-color: #7e5c2e;
+}
+
+.switch {
+    padding-bottom: 8%;
+}
+
+.inner-container {
+    max-width: 700px;
+    margin: 0px auto;
+    padding: 20px 40px;
+    background: #f2f5ea;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #323232;
+    color: #7e7e7e;
+}
+
+.logo-container {
+    font-family: "Pacifico", sans-serif;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.logo-container a, .logo-container a, .logo-container {
+    color: #fff;
+}
+
+.info {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn, .btn-large {
+    background-color: #323232 !important;
+    margin-top: 2%;
+}
+
+.btn:hover, .btn-large:hover, .btn:focus, .btn-large:focus, .btn:active, .btn-large:active {
+    background-color: #868686 !important;
+}
+
+input[type="radio"].with-gap:checked + label:before {
+    border-radius: 50%;
+    border: 2px solid #e75a7c;
+}
+
+input[type="radio"].with-gap:checked + label:after {
+    border-radius: 50%;
+    border: 2px solid #e75a7c;
+    background-color: #e75a7c;
+}
+
+input:focus:not([type]):not([readonly]), input[type="text"]:focus:not([readonly]), input[type="password"]:focus:not([readonly]), input[type="email"]:focus:not([readonly]), input[type="url"]:focus:not([readonly]) {
+    border-bottom: 1px solid #e75a7c;
+    box-shadow: 0 1px 0 0 #e75a7c;
+}
+
+input:focus:not([type]):not([readonly]) + label, input[type="text"]:focus:not([readonly]) + label, input[type="password"]:focus:not([readonly]) + label, input[type="email"]:focus:not([readonly]) + label, input[type="url"]:focus:not([readonly]) + label {
+    color: #e75a7c;
+}
+
+
+.footer {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #efefef;
+    max-width: 700px;
+    margin: 0px auto;
+    padding: 20px 40px;
+}
+
+.footer a {
+    color: #efefef;
+}
+
+.footer a:hover {
+    color: #efefef;
+}
+
+#current_attendance {
+    margin-top: 50px;
+}
+
+#per {
+    font-size: 50px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
